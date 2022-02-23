@@ -1,0 +1,6 @@
+name: WorkloadDistribution
+version: '${project.version}'
+main: com.gestankbratwurst.scheduling.workloaddistribution.WorkloadDistribution
+api-version: 1.18
+authors: [ Gestankbratwurst ]
+description: Example plugin for workload distribution
