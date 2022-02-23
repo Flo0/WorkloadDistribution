@@ -6,8 +6,8 @@ https://www.spigotmc.org/threads/guide-on-workload-distribution-or-how-to-handle
 
 
 ## From an expensive single blocking operation
-![](blob:https://giphy.com/296435cb-f35f-490d-bbd8-425f04e40399)
+![](https://github.com/Flo0/WorkloadDistribution/blob/master/readmesrc/instant_fill.gif)
 
 
 ## To a distributed async workload
-![](blob:https://giphy.com/2a31d35d-97db-42af-a12f-e68f5542caa1)
+![](https://github.com/Flo0/WorkloadDistribution/blob/master/readmesrc/dist_fill.gif)
